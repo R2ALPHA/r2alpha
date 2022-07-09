@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <img src="./assets/readme_poster.gif" />
 
-### Hi there 👋
+### Hey there 👋
 - 🔭 I’m currently working on some awesome React project.
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on WebGL based project
