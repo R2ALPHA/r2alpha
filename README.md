@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### Hey there 👋
 - 🔭 I’m currently working on some awesome React project.
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React and Node JS
 - 👯 I’m looking to collaborate on WebGL based project
 - 🤔 I’m looking for help with canvas optimization and best practices
 - 💬 Ask me about Javascript, Canvas, SVG, React, AWS, PHP. 
